@@ -1,0 +1,15 @@
+{
+    "filme": {
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "diretor": "Christopher Nolan",
+        "generos": ["Ficção Científica", "Drama", "Aventura"],
+        "nota": 8.7,
+        "assistido": true,
+        "protagonista": {
+            "nome": "Matthew McConaughey",
+            "personagem": "Cooper"
+        },
+        "sequencia": null
+    }
+}
